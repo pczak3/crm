@@ -12,7 +12,6 @@ ________________________________________
 •	Tools: Terminal (Bash), optional GitHub-Zugang, SSH-Key, Browser
 •	Projektdateien: GitHub-Repo: https://github.com/pczak3/crm/tree/main/simple_crm
 •	Datenbank-Datei: crm.db mit Beispiel-Daten (durch Seeder erstellt)
-•	Hilfstools (optional): FTP-Client (FileZilla), DB-Tools (DBeaver, DB Browser, Adminer)
 ________________________________________
 3) Schritt-für-Schritt Installation
 3.1 Projekt herunterladen
