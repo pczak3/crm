@@ -1,6 +1,6 @@
 # Simple CRM – Installations- & Migrationsanleitung (PythonAnywhere / Flask)
 
-**Projektname:** Simple CRM – Klasse/Jahrgang
+**Simple CRM – 5BHWII**
 
 ## 1) Plattform-Check
 - Zielplattform: PythonAnywhere  
