@@ -1,0 +1,1 @@
+# This file is a placeholder for migration environment.\n# The repo includes a lightweight scaffold. For full migration support run `flask db init` in your environment.\nprint('migrations env scaffold - use flask db commands to generate real migrations')\n

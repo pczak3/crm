@@ -1,0 +1,1 @@
+Flask-Migrate / Alembic scaffold included. To initialize properly in your environment, run `flask db init` etc if needed.
