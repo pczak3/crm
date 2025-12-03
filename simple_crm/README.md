@@ -63,7 +63,7 @@ application = create_app()
 ### 3.6 Statische Dateien konfigurieren
 - Web → Static files:  
 | URL      | Pfad                                         |
-|----------|---------------------------------------------|
+-----
 | /static/ | /home/<dein_username>/crm/simple_crm/app/static/ |
 
 ### 3.7 App starten
